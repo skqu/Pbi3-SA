@@ -53,3 +53,9 @@ public class Animal
 {
 
 }
+
+
+public class Æsel : Animal 
+{
+    //Do something
+}
