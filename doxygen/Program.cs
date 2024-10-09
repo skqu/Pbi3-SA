@@ -54,9 +54,9 @@ public class Animal
 
 }
 
-public class Hund : Animal
+public class DogAnimal : Animal
 {
-    public void Lyd()
+    public void Sound()
     {
         Console.WriteLine("Woof!");
     }
