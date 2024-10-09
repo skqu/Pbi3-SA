@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj": {}
+    "C:\\Users\\Fahad\\Pbi3-SA\\doxygen\\doxygen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj": {
+    "C:\\Users\\Fahad\\Pbi3-SA\\doxygen\\doxygen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj",
+        "projectUniqueName": "C:\\Users\\Fahad\\Pbi3-SA\\doxygen\\doxygen.csproj",
         "projectName": "doxygen",
-        "projectPath": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj",
-        "packagesPath": "C:\\Users\\name\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\obj\\",
+        "projectPath": "C:\\Users\\Fahad\\Pbi3-SA\\doxygen\\doxygen.csproj",
+        "packagesPath": "C:\\Users\\Fahad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fahad\\Pbi3-SA\\doxygen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\name\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fahad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
