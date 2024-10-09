@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\doxygen\\doxygen.csproj",
+      "projectUniqueName": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\Pbi3-SA\\doxygen\\doxygen.csproj",
       "projectName": "doxygen",
-      "projectPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\doxygen\\doxygen.csproj",
+      "projectPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\Pbi3-SA\\doxygen\\doxygen.csproj",
       "packagesPath": "C:\\Users\\skqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\doxygen\\obj\\",
+      "outputPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\10-09-24\\code\\Pbi3-SA\\doxygen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
