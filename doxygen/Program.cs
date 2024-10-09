@@ -33,6 +33,7 @@ public class WebApp
     {
         var builder = WebApplication.CreateBuilder(args);
         _app = builder.Build();
+        var dummy = 2;
         
         // Maps the root endpoint ("/") to return a "Hello World!" response.
         _app.MapGet("/", () => "Hello World!");
