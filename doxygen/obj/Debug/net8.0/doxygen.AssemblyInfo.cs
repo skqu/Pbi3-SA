@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("doxygen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eb6c0b096c8d24a158cb1ffabf385040c890235")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0217a944419792d8fd5bbd0eaa7d5b9642b15ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("doxygen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("doxygen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
