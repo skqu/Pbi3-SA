@@ -34,7 +34,7 @@ public class WebApp
         var builder = WebApplication.CreateBuilder(args);
         _app = builder.Build();
         var dummy = 2;
-        
+
         // Maps the root endpoint ("/") to return a "Hello World!" response.
         _app.MapGet("/", () => "Hello World!");
     }
@@ -58,4 +58,16 @@ public class Animal
 public class Æsel : Animal 
 {
     //Do something
+
+    public void Sound()
+    {
+        Console.WriteLine("Not Woof!");
+    }
+}
+public class DogAnimal : Animal
+{
+    public void Sound()
+    {
+        Console.WriteLine("Woof!");
+    }
 }
