@@ -64,7 +64,7 @@ namespace NextTechTest
             int expectedSum = 7;
 
             // Act & Assert
-            int result = calculator.add(numOne, numTwo);
+            int result = calculator.add((int)numOne, (int)numTwo);
 
              Assert.AreEqual(expectedSum, result, "The add method did not return the correct sum when adding with double.");
         }
