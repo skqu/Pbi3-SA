@@ -73,20 +73,16 @@ public class Cat : Animal
     }
 }
 
-/// <summary>
-/// Derived class Cat inherits from Animal
-/// </summary>
-public class Cat : Animal
+
+public class Æsel : Animal 
 {
-    /// <summary>
-    /// Method that makes the cat sound.
-    /// </summary>
-    public void sound()
+    //Do something
+
+    public void Sound()
     {
-        Console.WriteLine("Meow!");
+        Console.WriteLine("Not Woof!");
     }
 }
-
 public class DogAnimal : Animal
 {
     public void Sound()

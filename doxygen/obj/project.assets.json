@@ -8,19 +8,33 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\skqu\\.nuget\\packages\\": {}
+
+
+    "C:\\Users\\name\\.nuget\\packages\\": {}
+
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\24-10-25\\code\\doxygen\\doxygen.csproj",
+
+
+      "projectUniqueName": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj",
       "projectName": "doxygen",
-      "projectPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\24-10-25\\code\\doxygen\\doxygen.csproj",
-      "packagesPath": "C:\\Users\\skqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skqu\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\2024\\Software Arkitektur\\Software Arkitektur\\24-10-25\\code\\doxygen\\obj\\",
+      "projectPath": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\doxygen.csproj",
+      "packagesPath": "C:\\Users\\name\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\name\\GitHub\\Pbi3-SA\\doxygen\\obj\\",
+
+
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\skqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+
+
+        "C:\\Users\\name\\AppData\\Roaming\\NuGet\\NuGet.Config",
+
+
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -41,11 +55,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -70,7 +79,10 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+
+
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+
       }
     }
   }
