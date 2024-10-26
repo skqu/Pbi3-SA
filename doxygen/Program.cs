@@ -54,6 +54,16 @@ public class Animal
 
 }
 
+
+public class Æsel : Animal 
+{
+    //Do something
+
+    public void Sound()
+    {
+        Console.WriteLine("Not Woof!");
+    }
+}
 public class DogAnimal : Animal
 {
     public void Sound()
