@@ -9,7 +9,7 @@ app.Run();
 /// It creates a web application using the ASP.NET Core framework, and maps a simple GET request.
 /// 
 /// <para>Mermaid Diagram:</para>
-/// \startuml
+/// /// \startuml
 /// graph TD
 ///     A[Start] --> B[Opret WebApp med args]
 ///     B --> C[Initialiser WebApplication Builder]
