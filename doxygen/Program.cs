@@ -51,10 +51,26 @@ public class WebApp
 
 /// <summary>
 /// Base class Animal
+/// </summary>/// <summary>
+/// Base class Animal
 /// </summary>
 public class Animal
 {
 
+}
+
+/// <summary>
+/// Derived class Cat inherits from Animal
+/// </summary>
+public class Cat : Animal
+{
+    /// <summary>
+    /// Method that makes the cat sound.
+    /// </summary>
+    public void sound()
+    {
+        Console.WriteLine("Meow!");
+    }
 }
 
 /// <summary>
