@@ -10,12 +10,12 @@ namespace NextTechTest
         {
             // Arrange
             var calculator = new Calc();
-            int numOne = 5;
-            int numTwo = 3;
-            int expectedDifference = 2;
+            double numOne = 5;
+            double numTwo = 3;
+            double expectedDifference = 2;
 
             // Act
-            int result = calculator.subtract(numOne, numTwo);
+            double result = calculator.subtract(numOne, numTwo);
 
             // Assert
             Assert.AreEqual(expectedDifference, result, "The add method did not return the expected difference.");
@@ -26,12 +26,12 @@ namespace NextTechTest
         {
             // Arrange
             var calculator = new Calc();
-            int numOne = -5;
-            int numTwo = -3;
-            int expectedDifference = -2;
+            double numOne = -5;
+            double numTwo = -3;
+            double expectedDifference = -2;
 
             // Act
-            int result = calculator.subtract(numOne, numTwo);
+            double result = calculator.subtract(numOne, numTwo);
 
             // Assert
             Assert.AreEqual(expectedDifference, result, "The add method did not return the correct sum for negative numbers.");
@@ -42,29 +42,28 @@ namespace NextTechTest
         {
             // Arrange
             var calculator = new Calc();
-            int numOne = 0;
-            int numTwo = 7;
-            int expectedDifference = -7;
+            double numOne = 0;
+            double numTwo = 7;
+            double expectedDifference = -7;
 
             // Act
-            int result = calculator.subtract(numOne, numTwo);
+            double result = calculator.subtract(numOne, numTwo);
 
             // Assert
             Assert.AreEqual(expectedDifference, result, "The add method did not return the correct sum when adding zero.");
         }
 
         [TestMethod]
-        [ExpectedException(typeof(System.ArgumentException))]
         public void Test_SubtractMethod_WithDecimal()
         {
             // Arrange
             var calculator = new Calc();
             double numOne = 0.0;
             double numTwo = 7.0;
-            int expectedDifference = -7;
+            double expectedDifference = -7;
 
             // Act & Assert
-            int result = calculator.subtract((int)numOne, (int)numTwo);
+            double result = calculator.subtract(numOne, numTwo);
 
              Assert.AreEqual(expectedDifference, result, "The add method did not return the correct sum when adding with double.");
         }

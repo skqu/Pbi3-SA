@@ -9,7 +9,7 @@ class Program
         var logger = new Logger();
 
         var calculater = new Calc();
-        logger.Info(calculater.add(2,2).ToString());
+        calculater.add(2,2).ToString();
         
     }
 

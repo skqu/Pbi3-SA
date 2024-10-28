@@ -1,15 +1,15 @@
 using System.Diagnostics.Tracing;
 
 public class Calc{
-    public int add(int numOne, int numTwo)
+    public double add(double numOne, double numTwo)
     {
         return numOne + numTwo;
     }
 
-    public int subtract(int numOne, int numTwo)
+    public double subtract(double numOne, double numTwo)
     {
         // Missing implementation
-        return 0;
+        return numOne - numTwo;
     }
 }
 
